@@ -1,0 +1,10 @@
+Cluster 0 (27 documentos): "transición" "energía" "energías" "renovables" "energética" "impuesto" "energías renovables" "instalación" "sociedad" "transición energética" -> "energía"
+
+Cluster 1 (35 documentos): "agua" "sequía" "andalucía" "política" "precipitaciones" "cambio" "demanda" "cambio climático" "recursos" "climático" -> "agua"
+
+Cluster 15 (31 documentos): "emisiones" "gases" "invernadero" "efecto invernadero" "efecto" "gases efecto" "gases efecto invernadero" "cero" "cadena" "climático" -> "emisiones"
+
+Cluster 18 (27 documentos): "incendios" "forestal" "bosques" "forestales" "incendios forestales" "rural" "informe" "bosque" "congreso" "crecido" -> "incendios forestales"
+
+Cluster 22 (30 documentos): "millones" "2021" "año" "euros" "personas" "oms" "19" "covid 19" "tuberculosis" "covid" -> "covid19"
+

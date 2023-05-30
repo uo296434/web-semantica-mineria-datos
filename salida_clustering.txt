@@ -1,0 +1,1080 @@
+CLUSTERING CON K-MEANS
+
+
+Initialization complete
+Iteration 0, inertia 957.875497952956.
+Iteration 1, inertia 505.73065147090347.
+Iteration 2, inertia 505.3311390727898.
+Converged at iteration 2: strict convergence.
+
+Cluster 0 (27 documentos): "transición" "energía" "energías" "renovables" "energética" "impuesto" "energías renovables" "instalación" "sociedad" "transición energética" 
+	 
+
+Muchos países están replanteando su modelo energético para apostar por soluciones que garanticen su autoabastecimiento, al tiempo que evitan el uso de recursos tradicionales, cuestionados tanto por su condición limitada como por su elevado impacto  ...
+	 
+
+Hay diferentes ayudas dependiendo de la comunidad, pero en todas existen muchas opciones.
+
+Por ejemplo, los Fondos Europeos Next Generation o las bonificaciones del impuesto de bienes inmuebles (IBI) de hasta el 50%.
+
+Además, existe la posibilidad  ...
+	 
+
+Y lo son aún más desde este último sábado, al aplicarse la decisión del Gobierno de reducir su IVA del 21% al 5%.
+
+El cambio en este impuesto, que en un principio estará en vigor hasta el 31 de diciembre, supondrá un ahorro estimado para los consum ...
+	 
+
+La instalación resulta muy fácil y eficaz: suele estar lista en dos días y los paneles empiezan a producir energía de inmediato, por lo que la reducción de la factura de la luz es palpable desde el primer minuto.
+
+La inversión se amortiza al princi ...
+	 
+
+Durante muchos meses ha habido que esperar a la madrugada o al fin de semana para poner una lavadora o un lavavajillas.
+
+Pero, con las placas solares, esto no es necesario: en lugar de pagar por la electricidad en el momento más caro del día es pos ...
+	 
+
+“Hasta ahora hemos estado centrados en el ámbito industrial, pero queremos ir un paso más allá”, ha subrayado este miércoles el consejero delegado de su filial en España, rebautizada como Edison Next España, Íñigo Bertrand, en la presentación del p ...
+	 
+
+Para alcanzar nuestros objetivos de renovación, necesitamos que el BCE autorice a los bancos a conceder préstamos con un interés del 0%, a pagar en un período de hasta 30 años con un descuento ecológico.
+
+El Gobierno podría entonces dirigir sus ayu ...
+	 La recaudación por el impuesto de matriculación se dispara un 38% en 2022 pese a la caída de ventas.
+
+La recaudación pública por impuesto de matriculación (gravamen transferido a las comunidades autónomas) ...
+
+
+Cluster 1 (35 documentos): "agua" "sequía" "andalucía" "política" "precipitaciones" "cambio" "demanda" "cambio climático" "recursos" "climático" 
+	 
+
+TELEFONICAEstos avances han sido reconocidos con la primera posición mundial en el Digital Inclusion Benchmark (DIB), elaborado por la World Benchmarking Alliance, que analiza cómo ayudan las empresas tecnológicas más influyentes a promover economí ...
+	 
+
+No antes.
+
+En simultáneo, reclama al Estado que destine fondos europeos a digitalizar el ciclo integral del agua y trasvasar caudal de los ríos Tinto, Odiel, Piedras y Guadalquivir para los agricultores de Doñana.
+
+San Telmo persiste en la vieja fó ...
+	 
+
+Parc Agrari del Baix Llobregat / Heriberto Araújo“Esta sequía es muy fuerte”, dice, convencido de que las escasas precipitaciones y las temperaturas anómalamente altas son el rostro más evidente del calentamiento global en el Mediterráneo, una de l ...
+	 
+
+Es casi un tercio del total las zonas existentes en España.
+
+Calentamiento global Actuar sobre la demanda, y no sólo sobre la doméstica, va a convertirse en uno de los grandes problemas políticosSon más un millón de hectáreas que en su mayoría, y s ...
+	 
+
+Sus compañeros de bancada aplaudían rabiosamente.
+
+De momento el país sigue sin comisario ni estrategia nacional.
+
+La primavera será crucialLas sequías cíclicas son típicas del clima mediterráneo, pero lo que la región enfrenta ahora no es una sequ ...
+	 
+
+La evidencia del cambio climático –Andalucía acaba de pasar el verano más tórrido de su historia– desmiente la infalibilidad de esta fórmula.
+
+Al menos, desde el prisma del interés general.
+
+Los pantanos, sin precipitaciones regulares que los llene ...
+	 
+
+Desde la Fundación Alternativas recuerdan que, además de las políticas de cambio climático y economía circular, la protección marítima resulta esencial: no en vano, y según estima la UE, por cada euro invertido en espacios marinos protegidos se gen ...
+	 
+
+Este fenómeno sí es una consecuencia del calentamiento global.
+
+“El cambio climático impacta los recursos hídricos en combinación con los vectores demográficos y socioeconómicos”, se lee en un informe científico de 2020 en el que se analizan las al ...
+
+
+Cluster 2 (34 documentos): "crisis" "salud" "personas" "muertes" "casos" "política" "mundial" "incremento" "enfermedades" "mundo" 
+	    
+
+El climatólogo alicantino insiste en que para explicar esta sucesión de fenómenos hay que echar un vistazo al aumento de la temperatura del mar Mediterráneo, un factor clave que afecta a la circulación atmosférica en general.   
+
+En el periodo 2 ...
+	 
+
+E imposibilidad de hacer frente al cambio climático.
+
+Esta renacida OTAN y el rearmamento mundial solo acrecentaran la crisis de unos países europeos que pueden acabar cayendo en manos de gobiernos de derecha radical.
+
+Todos estos gobernantes que s ...
+	 
+
+“La pandemia, la recesión económica y la crisis energética provocada por la crisis ucraniana están poniendo en jaque la consecución de los ODS”, ha añadido Daniel López, profesor asociado de la Escuela Andaluza de Salud Pública (EASP) y exdirector  ...
+	 
+
+Megalópolis como Shanghái, Pekín o Shenzhen han establecido un sistema por el que los residentes deben hacerse pruebas (gratuitas) como máximo cada 72 horas para poder acceder a la mayoría de los espacios públicos, hospitales y otras instalaciones  ...
+	 
+
+Otro dato que facilita el Instituto Superior del Medioambiente es que enviar 65 mensajes de correo electrónico equivale aproximadamente a conducir un kilómetro en coche.
+
+Cada día se envían unos 280.000 millones.
+
+Este tipo de contaminación resulta ...
+	 
+
+En un lado tenemos a gente que demanda menor desigualdad económica, mayor empeño en la lucha contra el cambio climático, que cree en la multiculturalidad y los derechos de los animales y que apoya la causa del feminismo; en el lado contrario, perso ...
+	 
+
+El mundo funciona, ha continuado, no como “un mecanismo global engrasado”, sino como “un mecanismo que va poniendo parches”.
+
+Desde su punto de vista, no hay una intención pactada global de resolver los problemas de la humanidad.
+
+“El aumento de la ...
+	 
+
+Las reducciones en el número registrado de pacientes diagnosticados sugieren que ha crecido el número de personas que se ha infectado y está sin diagnosticar.
+
+Esto, a su vez, resulta en un mayor número de muertes en primer lugar, en una mayor tran ...
+
+
+Cluster 3 (23 documentos): "contacto" "contacto sección" "ambiente crisisclimatica" "ambiente crisisclimatica prensaiberica" "contacto sección ambiente" "crisisclimatica prensaiberica" "crisisclimatica" "prensaiberica" "sección ambiente crisisclimatica" "sección ambiente" 
+	 
+
+La filial de EDF en España, Fenice Ibérica (ahora Edison Next), lleva más de dos décadas presente en el mercado español y cuenta con una plantilla de más de 800 trabajadores, una cifra que se ha multiplicado por cuatro en los tres últimos años.
+
+El ...
+	 
+
+El responsable de Ecologistas en Acción ha precisado que los efectos de dichos vertidos de salmuera son &quot;peores de lo que se pensaba&quot;, dado que afectan gravemente a las praderas de posidonia, una planta marina fundamental para la reproduc ...
+	 
+
+En cualquier caso, el invierno fue el segundo más cálido registrado en Europa, con temperaturas muy por encima de la media en Europa oriental y zonas del noreste del viejo continente.
+
+Además, fue más seco que la media en gran parte de Europa occid ...
+	 Los incendios por rayos se triplican este verano.
+
+Las causas naturales provocan el 30% de los fuegos, diez puntos por encima de la media de los últimos 15 años. ...
+	 Los cinco 'atascos' de la cumbre del clima de Sharm el-Sheikh.
+
+En Sharm el-Sheikh se respira un aire extraño este miércoles.
+
+En el ecuador de la segunda semana de la cumbre del clima, justo en un momento en que ya se deberían estar cerrando los últ ...
+	 
+
+Alicia BombiLa Cerdanya se ubica básicamente en el alto Valle del Segre.
+
+De hecho, se enclava en uno de los valles más anchos de Europa, que destaca por su altitud y por disfrutar de más de tres mil horas de sol al año.
+
+Su especial situación geog ...
+	 
+
+Y la gran crisis es que los gobiernos no sepan o no puedan aplicar medidas de justicia social.
+
+Pues en ella estamos.
+
+RetalesMáquina.
+
+Fascinante uso de la maquinaria del poder del equipo de Sánchez.
+
+Organizaron de tal forma el eclipse de la derr ...
+	 
+
+Por eso, y en paralelo, el Consejo de la UE y el Parlamento llegaron a un acuerdo sobre infraestructura de recarga que obligará a los países a instalar puntos de carga para vehículos eléctricos al menos cada 60 kilómetros -y cada 120 kilómetros par ...
+
+
+Cluster 4 (25 documentos): "calor" "aire" "calefacción" "mitsubishi" "verano" "electric" "mitsubishi electric" "ola" "invierno" "energética" 
+	 
+
+La estrategia nacional consta de 53 puntos y sienta las bases para paliar la reducción de la disponibilidad del agua que los científicos prevén para Francia a mitad de siglo (-10 a -40 por ciento del caudal de ríos, y -10 a -25 por ciento de lluvia ...
+	 Cómo duplicar la inversión para mejorar la eficiencia energética de los hogares.
+
+Exposición didáctica de ideas, conjeturas o hipótesis, a partir de unos hechos de actualidad comprobados —no necesariamente del día— que se reflejan en el propio texto. ...
+	 
+
+Utiliza el aire de la calle como fuente gratuita de climatización.
+
+La Aerotermia Ecodan, al usar energías renovables, y gracias a su sostenibilidad y respeto al medio ambiente, es susceptible de recibir subvenciones Next Generation, lo que ayudará ...
+	 
+
+Sin embargo, sí que existe un efecto indirecto.
+
+Hace 50 años se acordó que para mantener sincronizado el horario oficial con la duración real del día, cuando fuese necesario se sumaría o restaría un segundo al reloj que marca la hora oficial a esc ...
+	 
+
+El aumento de las temperaturas es uno de ellos.
+
+Cuanto más cálido es el tiempo, más proliferan.
+
+“Dado que el invierno se hace más corto, las garrapatas se sienten más cómodas y tienen un ciclo de vida más prolongado y con menos mortalidad”, afirm ...
+	 
+
+Adiós a las calderas tradicionalesPara aquellos consumidores que decidan apostar por un gran cambio, Aerotermia Ecodan es la solución más completa.
+
+La propuesta de Mitsubishi Electric se basa en la tecnología bomba de calor aire-agua, con la que p ...
+	 
+
+Regado por una red de canales y por el cauce del río Llobregat, el Parc es un reducto de naturaleza que impone límites a la proliferante aglomeración inmobiliaria.
+
+“Si desapareciera este pulmón verde para construir pisos —explica Chantry mientras  ...
+	 
+
+El sistema consta de una unidad que se coloca en el interior de la casa y otra unidad exterior.
+
+El mantenimiento es sencillo, el principal inconveniente reside en la limpieza de los filtros.
+
+La bomba de calor es un sistema muy versátil.
+
+Suminist ...
+
+
+Cluster 5 (24 documentos): "agricultura" "alimentos" "datos" "cultivos" "urbana" "rendimientos" "quot" "agricultura urbana" "urbanos" "cultivo" 
+	 La humilde despedida de Li Keqiang.
+
+Artículos estrictamente de opinión que responden al estilo propio del autor.
+
+Estos textos de opinión han de basarse en datos verificados y ser respetuosos con las personas aunque se critiquen sus actos. ...
+	 Descubren que los huertos urbanos llegan a rendir el doble que un cultivo rural.
+
+Aunque parezca increíble, producir determinados cultivos en la ciudad rinde al menos el doble que hacerlo en el medio rural.
+
+Es el caso del pepino, las patatas y las l ...
+	 
+
+Les creemos cuando nos dicen que el cambio climático tiene causas humanas, pero no cuando nos defienden que las soluciones que sugerimos para resolverlo no sirven.
+
+Cuando recomendamos la agroecología para disminuir la huella de carbono, no tenemos ...
+	 
+
+No encuentran un terreno común, les separan demasiadas cosas en sus creencias acerca de cómo habría que afrontar los problemas de nuestro tiempo, desde los impuestos hasta la memoria histórica.
+
+De ahí que la política se convierta en un diálogo de  ...
+	 
+
+“Las industrias y Gobiernos tendrán que plantear sistemas que sean sostenibles”.
+
+Para Hermann, de UNFPA, ese es precisamente “el corazón del reto del desarrollo sostenible: satisfacer las necesidades de la gente que vive y de la que nacerá, sin de ...
+	 
+
+Pero controlar la cantidad de alimentos que una ciudad podría producir por sí misma es difícil sin información de rendimiento como los datos presentados en el estudio de Payen.
+
+&quot;Este es el primer paso&quot;, señala Payen.
+
+Una vez que los cie ...
+	 
+
+La ciencia abierta, que fomenta el intercambio de datos científicos y una mayor colaboración en la investigación, puede limar las diferencias entre regiones y continentes.
+
+Y las tecnologías digitales tienen el potencial de multiplicar las conexion ...
+	 
+
+&quot;A medida que interactuamos y hablamos con diferentes partes interesadas, como agencias gubernamentales y consejos locales, nos dimos cuenta de que la ausencia de datos sólidos y completos sobre los rendimientos agrícolas urbanos les impedía s ...
+
+
+Cluster 6 (11 documentos): "mujeres" "hijos" "mujer" "fertilidad" "tasa" "población" "embarazos" "materna" "salud" "programas" 
+	 
+
+“Las niñas con menos años de escolarización tienen mayor riesgo de ser víctimas de matrimonios precoces y embarazos tempranos”, afirma.
+
+La educación y la autonomía económica son, en su opinión, fundamentales para garantizar que ellas podrán tomar  ...
+	 
+
+Y ahora mismo tienen más de lo que desean”, asegura Herrmann.
+
+La falta de poder de decisión para evitar tener hijos es una violación de los derechos humanos de las mujeres, como lo es el control de la fertilidad (prohibirles tenerlos) para frenar  ...
+	 
+
+La región subsahariana, donde se espera que la población se duplique para 2050, los nacimientos por mujer han descendido de 6,5 a 4,7 en los últimos 30 años.
+
+Una bajada, pero todavía muy por encima de la media.
+
+Dos tercios de la población mundial ...
+	 
+
+“Esta es la parte buena de la historia”, señala Herrmann.
+
+La otra cara es la de la desigualdad de género global, que se traduce en pocas o nulas opciones de elección por parte de las mujeres a la hora de decidir sobre la maternidad.
+
+“Sabemos que  ...
+	 
+
+Esta cantidad supone el 3,5% del total de la AOD, de nuevo muy lejos de la media de los países del CAD (10,5%).
+
+Un esfuerzo que, además, las organizaciones responsables del estudio consideran insuficiente ante la magnitud de los desafíos en este s ...
+	 
+
+El boom de las últimas décadas se explica parcialmente por el aumento de la esperanza de vida (nueve años más que en 1990), que tiene que ver con mejores condiciones sanitarias y de desarrollo en el Sur Global, así como la efectividad de los progra ...
+	 
+
+La familia humana tardó 125 años en pasar de mil a dos mil millones.
+
+En 1952, hace 70 años, el planeta era ya habitado por 2.500 millones de personas.
+
+Desde entonces, la especie no ha dejado de multiplicarse y cada vez lo hace más aceleradamente. ...
+	 
+
+Y por primera vez desde 2005 han aumentado las muertes por tuberculosisEn los últimos 20 años, confirma el informe, ha habido muchas mejoras, pero aun así, “sigue siendo inaceptable el escaso avance en algunos de los indicadores de salud”.
+
+La mort ...
+
+
+Cluster 7 (38 documentos): "hidrógeno" "proyecto" "verde" "millones" "toneladas" "compañía" "descarbonización" "españa" "000" "maersk" 
+	 Alcampo organiza el acto ‘Alianzas por la Descarbonización’.
+
+MADRID, 20 (SERVIMEDIA) Alcampo celebrará el próximo 9 de febrero en Kinépolis, en el municipio madrileño de Pozuelo de Alarcón, el evento ‘Alianzas por la Descarbonización’.
+
+Al acto asis ...
+	 
+
+En términos comparados, España es el país con una ciudadanía más escorada a la izquierda de toda la Unión Europea.
+
+La ideología se mide habitualmente mediante encuesta, en una escala en la que el 0 es la extrema izquierda y 10 la extrema derecha.
+ ...
+	 
+
+A partir de 2027 llegará la segunda, que tendrá el objetivo de alcanzar el 1 millón de toneladas y en 2030 se espera llegar a los 2 millones.
+
+En función del éxito de la primera fase del proyecto, la compañía decidirá a mediados de la década si en  ...
+	 
+
+Los primeros lanzamientos lograron atraer la atención de cientos de millones de espectadores en todo el mundo, pero vuelo tras vuelo el interés se fue disipando y, una vez se &#039;relajaron&#039; las relaciones con la Unión Soviética, mantener el  ...
+	 
+
+Entre los proyectos ganadores, Sánchez destaca el proyecto Bound4Blue, que ha desarrollado un sistema de transporte naval alternativo no contaminante; y OrbitalEOS, de Global Omnium, que propone un innovador sistema de detección de contaminación ma ...
+	 
+
+La prioridad es, obviamente, mantener la actividad económica y el poder adquisitivo de los ciudadanos, afectados por el rápido incremento de la inflación.
+
+Pero las necesarias actuaciones en el corto plazo no deberían comprometer la hoja de ruta a  ...
+	 
+
+Y una de las primeras inversiones será el desembolso de 105 millones para la planta de Navia, con la fabricación de productos diferenciados, como la celuls Fluff (especial para productos higiénicos absorbentes) y un novedoso proyecto de descarboniz ...
+	 
+
+Pedro Sánchez, a su llegada de los 27 en Bruselas REUTERS/Yves HermanSi el reparto social de los daños de la inflación fracasa, fracasantambién las bases del Estado de bienestar, que parece válido solo para situaciones de tranquilidad económica.
+
+E ...
+
+
+Cluster 8 (18 documentos): "junio" "000" "2023" "marzo" "ola" "hectáreas" "mes" "40" "temperaturas" "incendios" 
+	 
+
+A pesar de que se utilice este término para reclamar frente a los medios más recursos para la gestión forestal, desde la fundación Pau Costa explican que no se trata de un incendio de sexta generación.
+
+Por ahora ninguno de los incendios de España  ...
+	 
+
+Reformar el Régimen de Comercio de Derechos de Emisión (ETS) nunca iba a ser fácil.
+
+Obliga a las empresas a comprar certificados por el CO2 que emiten.
+
+Para suavizar el golpe, la mayoría de los permisos creados desde 2013 han ido a parar gratis a ...
+	 
+
+LA VANGUARDIA El año 2022 se batió el récord de superficie calcinada Extensión quemada en España cada mes por los incendios Número de hectáreas 10.000 1.000 100.000 50.000 Ene.
+
+Feb.
+
+Mar.
+
+Abr.
+
+Mayo Junio Julio Ago.
+
+Sept.
+
+Oct.
+
+Nov.
+
+Dic.
+
+2012 ...
+	 Las garrapatas ya aparecen en España un mes antes de lo habitual.
+
+El problema de la proliferación de garrapatas en España está convirtiéndose en algo muy serio, pues ya aparecen un mes antes de lo que era habitual hasta hace poco.
+
+Tanto el aumento  ...
+	 
+
+Jul.
+
+Ago.
+
+Sep.
+
+Olas de calor en la península Sin datos oficiales del espisodio actual, se han registrado temperaturas de hasta 43 grados Temperatura máxima de la ola 35 36 37 38 39 40 Jun.
+
+Jul.
+
+Ago.
+
+Sep.
+
+2020 2015 Mayor temperatura máx.
+
+(41 ...
+	 
+
+Incluso se esperan 43° en Córdoba y Lleida.
+
+Hasta ahora, la temperatura más alta registrada durante la ola han sido los 43,2° del domingo en Almadén (Ciudad Real).Provincias con temperaturas mínimas superiores a 20 grados 10⁰ 20⁰ 30⁰ 40⁰ Miércoles ...
+	 
+
+Que en un solo marzo arda más superficie de bosque que el que se quema de media durante un mes de la temporada de incendios es otra demostración de la desestacionalización de la temporada de fuego.
+
+En los últimos 10 años veranos se han quemado de  ...
+	 Macron propone una nueva cumbre en el 2023 en París para rectificar los resultados.
+
+“¡Más solidaridad! ¡más ambición!”, lanzó Macron en Twitter. ...
+
+
+Cluster 9 (26 documentos): "gas" "biogás" "año" "residuos" "energía" "000" "generación" "árboles" "quema" "producción" 
+	 
+
+El grupo tiene establecidas exclusiones de crédito en los sectores que puedan tener un potencial impacto significativo en el clima, en el medio ambiente y en los derechos humanos.
+
+De esta forma, señala que para el sector energético, en líneas gene ...
+	 
+
+La sostenibilidad también desempeña un papel crucial en su estrategia de empresa.
+
+De hecho, la plataforma Right Supply ha acreditado este año la adhesión de Delta Tecnic a su sistema de proveedores comprometidos con el desarrollo sostenible.
+
+Y es ...
+	 
+
+Es alrededor de un millardo de metros cúbicos (bcm), que ahora importará desde Estados Unidos por barco.
+
+Como parte de ese proceso de ruptura apresurada con Rusia, Monti también se ha comprometido a acelerar su apuesta por las energías eólica y so ...
+	 
+
+Planta de biogás de Vila-SanaLa planta agroalimentaria Porgaporcs de Vila-sana funciona desde el 2006 con purines de porcinos y ecosustratos que provienen de residuos de la industria agroalimentaria, transformando el biogás generado con purines por ...
+	 
+
+La compañía también anuncio el reparto del segundo de los tres dividendos a cuenta que distribuirá este año.
+
+El consejo de Administración acordó distribuir un dividendo por un importe de 32 M€, equivalente a 0,13 euros brutos por acción, que se ab ...
+	 Plantar árboles en vez de quemarlos.
+
+Las campañas televisivas del antiguo Icona contra los incendios culminaban con una frase lapidaria que muchos de nuestra generación recordarán estos días de chamusquina: “Cuando el monte se quema, algo tuyo se qu ...
+	 
+
+Por ello, después de la combustión lo que se emite es CO2 con aire.
+
+Varios informes han concluido que utilizando pellet en vez de gas natural o carbón se puede reducir la huella de carbono hasta un 90%.
+
+Además, según algunas estimaciones, el uso  ...
+	 
+
+Desde entonces se han realizado más de dos decenas de expediciones; con una colección actual de más de 5.000 muestras, cuyos anchos de anillos de árboles han sido medidos, y cuyas muestras se encuentran actualmente archivadas en el Instituto de Eco ...
+
+
+Cluster 10 (22 documentos): "dióxido" "dióxido carbono" "carbono" "atmósfera" "wasp" "burbujas" "química" "mosquitos" "webb" "wasp 39b" 
+	 
+
+Sin embargo, no hay evidencia disponible que sugiera que el CO₂ medie en la atracción diferencial.
+
+O lo que es lo mismo, los niveles de emisión de dióxido de carbono no explican que los mosquitos prefieran sistemáticamente a una persona en vez de  ...
+	 
+
+Para determinarlo, los autores compararon varias formas de generar energía para una misión de seis personas a Marte: con un sistema de propulsión nuclear y con dispositivos fotovoltaicos e incluso fotoelectroquímicos.
+
+El nuevo análisis utiliza un  ...
+	    
+
+El método consiste en obtener el espectro de luz de una estrella que atraviesa la atmósfera de un exoplaneta durante su paso por el disco de una estrella (tránsito).   
+
+Gracias a las observaciones de los telescopios espaciales y terrestres, los ...
+	 
+
+&quot;Aunque el diagnóstico de la covid-19 es de enorme importancia para acabar con la pandemia, su impacto medioambiental no debe ser ignorado&quot;, señalan los investigadores, que pertenecen a las universidades Tecnológica de Cantón, la de Tecno ...
+	 
+
+Solo cuatro meses después del viaje de Armstrong, Aldrin y Collins se lanzó el viaje del Apolo 12.
+
+Todo un éxito.
+
+Y cinco meses después, el Apolo 13.
+
+Y es aquí donde la historia empezó a torcerse.
+
+El punto de inflexión El viaje del Apolo 13, en ...
+	 
+
+Aunque no se cree que WASP-39 b sea habitable, este nuevo trabajo señala el camino para encontrar potenciales rastros de vida en un planeta habitable, concluyen los científicos.
+
+Referencias Early Release Science of the exoplanet WASP-39b with JWST ...
+	 
+
+De hecho, existen posibilidades de extender la cronología de los anillos de los árboles hacia el pasado a lo largo de otros 2.000 años, señalan los investigadores.   
+
+&quot;Gracias a la cooperación internacional, también será posible utilizar otro ...
+	 
+
+WASP-39b es una enana amarilla caliente que tiene una masa de aproximadamente 0,28 veces la de Júpiter y un radio de aproximadamente 1,27 veces la de Júpiter.
+
+Orbita a WASP-39, su estrella anfitriona, cada 4 días.
+
+Método de detección La espectros ...
+
+
+Cluster 11 (8 documentos): "do" "temperatura" "máis" "unha" "media" "temperatura media" "temperaturas" "anos" "das" "na" 
+	 
+
+A temperatura media foi de 12,3ºC e a oscilación térmica de 10,6ºC (mes máis cálido, agosto, con 17,7ºC e o mes máis frío xaneiro con 7,1ºC)  A serie de Meteogalicia, a actual, con datos completos de catro anos, unha vez homoxeneizada con respecto  ...
+	    
+
+Cos datos homexeneizados destas tres estacións, ubicadas en distintos puntos da vila de Lalín, podemos ver a evolución das temperaturas en distintos períodos.
+
+O cambio climático ao longo de case 100 anos debería quedar reflectido nas gráficas d ...
+	    
+
+Estas dúas últimas series manteñen unha evolución moi parella, aínda que no verán as temperaturas de Ilepsa foran más baixas cás de Meteogalicia, sen embargo, en decembro, apreciase unha menor caída na serie de Meteogalicia.   
+
+Pódese afirmar q ...
+	    
+
+A gráfica de temperaturas medias do primeiro tercio do século XX amosa unhas características típicas dun clima oceánico de interior, cun inverno bastante frío e un verán relativamente caluroso, cunha temperatura inferior a 20ºC. Ao ser agosto o  ...
+	 
+
+Como se trata dun valor calculado podemos obter diferentes clases de temperaturas medias: a media diaria, a media mensual, a media anual e a media climática (con datos completos de 30 anos).    
+
+A temperatura media diaria, ata a posta en funcionam ...
+	      
+
+A temperatura media mensual é o resultado de calcular o valor medio das temperaturas diarias durante todos os días de cada mes (4.320 lecturas de temperatura).    
+
+A temperatura media anual é o promedio das temperaturas durante os 365 días do ...
+	 Cambios nas temperaturas medias de Lalín desde 1928.
+
+Para comezar, debemos facer unha aclaración respecto das temperaturas medias: entendemos por temperatura media un valor calculado estatisticamente a partires dos datos proporcionados por un termóm ...
+	 
+
+A modo de conclusión A localidade de Lalín tivo a sorte de contar cun insigne e laborioso investigador na primeira metade do século XX, a quen lle debemos importantes observacións meteorolóxicas que nos permiten ser unha das localidades galegas que ...
+
+
+Cluster 12 (46 documentos): "quot" "co2" "alemania" "039" "países" "españa" "emisiones" "apolo" "ue" "opep" 
+	    
+
+A medio plazo, considera probable que se logre una estabilización, antes de que la &quot;trayectoria descendente&quot; comience &quot;en algún momento a principios de la próxima década, aunque disminuyendo a un ritmo inferior al exigido por el A ...
+	 
+
+&quot;No podemos dejar sin agua a la población, pero no se pueden plantear las desaladoras para regar cultivos extensivos, campos de golf, regadíos ilegales, urbanizaciones...&quot;, asegura a Efe Julio Barea, responsable de Agua de Greenpeace.
+
+Se ...
+	 
+
+La maniobra no gustó en Bruselas ni a buena parte de los Estados miembros, pero fue necesario forzar una negociación para satisfacer a Alemania, primera potencia económica de la UE y primer fabricante automovilístico, y salvar una pieza clave de la ...
+	 
+
+En la parte baja, como los ciudadanos con menos problemas, destacan japoneses, franceses y tailandeses en las tres categorías.    
+
+Preguntados sobre cuál es su principal inquietud, la investigación ofrece datos diferentes por países, situando la s ...
+	 
+
+Estos combustibles artificiales -y actualmente muy caros- se producen a partir de hidrógeno verde y dióxido de carbono y, en teoría, resultan climáticamente neutrales porque solo emiten el CO2 previamente capturado y pueden usarse en vehículos con  ...
+	 
+
+El mundo acababa de salir de la Segunda Guerra Mundial, las tensiones geopolíticas impregnaban el aire y Estados Unidos y la Unión Soviéticas estaban enzarzados en una Guerra Fría para demostrar su liderazgo.
+
+Fue en ese contexto que estas superpot ...
+	 
+
+Sin embargo, tal y como registraron los árboles que crecen en Yamal, esta tendencia al enfriamiento se interrumpió a mediados del siglo XIX, cuando la temperatura comenzó a aumentar muy rápidamente y alcanzó los valores más altos de las últimas déc ...
+	    
+
+Tras considerar que la mejor medicina sería cambiar la forma de gestionar el territorio, ha lamentado que haya tanta resistencia a desbrozar o talar un árbol, cuando eso es precisamente lo que necesitan los bosques para estar libres de biomasa q ...
+
+
+Cluster 13 (20 documentos): "construcción" "mw" "eléctricos" "euros" "vehículos" "000" "millones" "turner" "coches" "planta" 
+	 Catalunya roja, por Ignacio Sánchez-Cuenca.
+
+Cuando hace unas décadas se realizaban pronósticos sobre el futuro, reinaba un cierto consenso en que evolucionaríamos hacia sociedades cada vez más prósperas, materialistas y desideologizadas.
+
+El consumi ...
+	 
+
+Ya sucedió entre 1991 y 1995.
+
+La historia vuelve a repetirse ahora.
+
+Los agricultores llevan meses advirtiendo de una pérdida de producción del orden de un 30%.
+
+Los expertos explican que, desde los años cuarenta del pasado siglo, las lluvias han  ...
+	 Los meteorólogos explican por qué no cae ni gota en España.
+
+Periodos secos como el actual ha habido muchos a lo largo de la historia –algunos más intensos y prolongados– y son relativamente frecuentes en la península ibéricaDAVID APARICIOMayormente  ...
+	 
+
+En Galicia, por su parte, la compañía prevé iniciar, antes de final de año, la construcción de un nuevo parque en la provincia de Lugo, con una potencia instalada de 46,2 MW.Mientras, la Región de Murcia acogerá una nueva planta de energía fotovolt ...
+	 
+
+El organismo público adquirió los terrenos y la concesión administrativa de una piscifactoría (ya cerrada), que tenía otorgada una concesión de 1.000 litros por segundo, con el objetivo de aumentar el agua que podría suministrar al centro de la reg ...
+	 ACS se adjudica a través de su filial Turner un contrato de 1.000 millones de dólares EE UU.
+
+Empleados de Turner Construction, filial estadounidense de ACS, en una obra.
+
+Turner, la filial norteamericana del grupo ACS, construirá una planta de recic ...
+	 
+
+Concretamente, prevé invertir más de 1.000 millones de euros en el país para disponer de una potencia operativa de 500 MW en 2023 y 1.200 MW en el año 2025./Desarrollo en EspañaEn España, la compañía está inmersa en la construcción de una treintena ...
+	 EDF se lanza al mercado español de descarbonización y eficiencia con una inversión inicial de 300 millones.
+
+La sede de la filial italiana de EDF, Edison, en el centro de Milán.
+
+Francoli, BarbaraEl gigante energético francés EDF “atacará” el mercado ...
+
+
+Cluster 14 (17 documentos): "economía" "recursos" "gasto" "públicas" "frente" "públicos" "social" "arcas" "arcas públicas" "cambio" 
+	 
+
+En 2023, se prevé que los déficits fiscales globales aumenten ligeramente hasta una media del 5% del PIB, tanto por los intereses más elevados como por las presiones para aumentar el gasto público, en especial el gasto en salarios y pensiones, para ...
+	 
+
+Ahora se destinarán recursos públicos para aliviar los mayores costes del gas de otras procedencias -recursos que deberían facilitar, por el contrario, la implantación masiva y el almacenamiento de la energía solar y de la eólica-, con el agravante ...
+	 
+
+La dependencia del mercado asiático es fulgurante, como lafalta de infraestructuras en el sur de Europa.
+
+En el norte, en cambio, tienen otro problema: la recaudación estatal.
+
+Tal como revelan desde Xataka, un informe de Bloomberg NEF, el 97% de l ...
+	 
+
+Diversas encuestas apuntan en esta dirección.
+
+Por ejemplo, datos demoscópicos recientemente publicados por el Consejo Europeo de Relaciones Exteriores dibujan que el 51% de la población española está en contra de dedicar más recursos a esta cuesti ...
+	 
+
+Reducir el tamaño del estado contrayendo intervención pública en la economía y recursos para servicios públicos, como nos cuenta la historia, siempre ha sido lesivo para el estado del bienestar.
+
+Pero es más, actualmente vivimos en un contexto enor ...
+	 Hipocresías energéticas.
+
+¿Se imaginan una familia que decidiera comprarse un Ferrari, una casa en Cadaqués y un viaje alrededor del mundo sin tener en cuenta si tiene recursos para financiarlos?
+
+No parece razonable.
+
+Lo normal sería optimizar el ni ...
+	 
+
+Ya no se trata del combate entre liberalismo, fascismo y comunismo, ahora no hay grandes relatos enfrentados.
+
+Con todo, el aumento de las desigualdades económicas y el cambio cultural han producido un choque de valores que resquebraja la cohesión  ...
+	 
+
+Tal como explican desde el portal Xakata, el 41% del coste de la gasolina son impuestos, como el 37% del diésel.      
+
+Una cantidad indecente de ingresos se perderá en el momento que todos los españoles circulen en coche eléctrico.
+
+O no.
+
+Este es ...
+
+
+Cluster 15 (31 documentos): "emisiones" "gases" "invernadero" "efecto invernadero" "efecto" "gases efecto" "gases efecto invernadero" "cero" "cadena" "climático" 
+	 
+
+El nuevo acuerdo implica que todos los ingresos irán ahora a la lucha contra el cambio climático.
+
+Es bueno, como también lo es el plan de ampliar el sistema a partir de 2027 para cubrir las emisiones de automóviles y edificios.
+
+La reducción del 4 ...
+	 
+
+Esto supone que solo dos test generan tantos gases como la electricidad promedio que utiliza cada chino en un día.
+
+De todo el ciclo de vida, las mayores emisiones las genera la eliminación de los residuos (71,3 %), mientras que la producción de la ...
+	 
+
+Reduce las emisiones de CO2 en 2.800 toneladas/año.
+
+En colaboración con Accenture y el Massachusetts Institute of Technology (MIT), Campofrío ha creado otro de sus proyectos estrella: un gemelo digital de todos los actores que forman parte de esta ...
+	 
+
+De momento, han conseguido reducir un 70% sus emisiones de carbono desde 2015, gracias al uso de energías renovables y a la integración de tecnologías más eficientes.
+
+La operadora se ha comprometido a alcanzar las cero emisiones netas de Gases de  ...
+	 
+
+La COP27 en Sharm el Sheij (Egipto) finalizó con un equilibrio de contrastes; en el lado positivo, estuvo el impulso, sin precedentes, de un fondo de ayuda para los países pobres afectados por el cambio climático; y, en la otra cara de la moneda, l ...
+	 
+
+Al igual que en otras áreas del desarrollo sostenible, el papel de la investigación y la innovación “es sin duda una palanca fundamental a la hora de impulsar soluciones a los desafíos que demanda la Agenda 2030 y, en este caso, alcanzar una gestió ...
+	 Toyota 'Beyond Zero', el objetivo de las cero emisiones es una realidad.
+
+Toyota 'Beyond Zero', el objetivo de las cero emisiones es una realidad La firma japonesa, pionera en vehículos eléctricos y compromiso con la sostenibilidad, afronta un paso m ...
+	 
+
+Una renovación amplia parece la solución obvia.
+
+Pero evidentemente no es tan sencillo.
+
+Básicamente, el proceso es costoso y está fuera del alcance de muchos españoles y europeos.
+
+Con los precios actuales, una renovación amplia de un hogar españo ...
+
+
+Cluster 16 (12 documentos): "venezuela" "deforestación" "global" "climática" "minería" "país" "información" "alerta" "frenar" "suficiente" 
+	 
+
+Pero el mundo agroecológico es refractario a las evidencias y sus consecuencias.
+
+Hace un año, cuando el presidente de Sri Lanka decidió prohibir la importación de fertilizantes y pesticidas, parecía una gran idea.
+
+Un año después, al menos una par ...
+	 Alerta climática: frenar el calentamiento global no va a ser suficiente.
+
+. ...
+	 Los mensajes de las burbujas.
+
+Nos aportan mucha información, tanto meteorológica como climática, como si va a llover más o menos. ...
+	 
+
+El objetivo de crear más empleo refleja la preocupación del Gobierno por la evolución del mercado laboral, especialmente para los trabajadores jóvenes, de los cuales casi el 20% estaban desempleados en la primavera de 2022.
+
+En otras palabras, el G ...
+	 
+
+Selva tropical quemada para el pastoreo de ganado.
+
+AvalonLos datos ponen en duda la versión que dio el Gobierno en mayo pasado durante la COP15 Convención de las Naciones Unidas de Lucha contra la Desertificación, donde el ministro del Ecosocialis ...
+	 
+
+Entre 2001 y 2015, el bosque natural representó el 19% de toda la pérdida boscosa en Venezuela, mientras que entre 2016 y 2020 alcanzó el 35%.Maquinaría arrasa con un parte de la Reserva Forestal de Imataca, en Venezuela.
+
+Avalon“La velocidad en qu ...
+	 
+
+Stepan Shiyatov, pionero de la dendrocronología en Rusia, fue el primero en reconocer el valor de los árboles antiguos que se encuentran en la península de Yamal.
+
+Junto con colegas del Instituto de Ecología Animal y Vegetal, comenzó hace 40 años c ...
+	 
+
+La Raisg reportó en 2020 la presencia de más de 4.400 puntos de minería ilegal en toda la Amazonía, de los cuales un 32% estaban en Venezuela con daños importantes en los Parques Nacionales Canaima, Yapacana, Duida Marahuaca, Parima Tapirapeco y Se ...
+
+
+Cluster 17 (14 documentos): "hielo" "antártida" "plataforma" "plataforma hielo" "febrero" "estación" "bas" "iceberg" "hielo marino" "marino" 
+	 Alerta en la Antártida: récord histórico de pérdida de hielo en febrero.
+
+Los casquetes polares continúan fundiéndose a marchas forzadas.
+
+La Antártida ha mostrado en febrero una evolución especialmente preocupante, pero el Ártico ha continuado tambi ...
+	 
+
+El análisis de Copernicus añade que el de 2023 fue el quinto mes de febrero más cálido a nivel mundial, con temperaturas superiores a la media en lugares como el este de EE UU, el norte de Rusia, Pakistán y la India y, en el caso de Europa, en la m ...
+	 Un iceberg tan grande como Gran Canaria se separa de la Antártida.
+
+Un enorme iceberg de 1.550 km² de extensión, es decir, el tamaño de la isla de Gran Canaria, se ha desprendido de la plataforma de hielo Brun, en la Antártida. ...
+	 
+
+La extensión del hielo marino en la Antártida alcanzó el pasado mes de febrero su mínimo histórico, según un informe del Servicio de Cambio Climático de Copernicus (C3S), desplegado por el Centro europeo de Previsiones meteorológicas a plazo medio  ...
+	 
+
+Los casquetes polares son un indicador sensible de la crisis climática y es importante vigilar de cerca los cambios que se producen en ellos».
+
+El Ártico aumenta también su derretimiento En el Ártico, la cobertura de hielo marino se situó también u ...
+	 
+
+Los casquetes polares continúan fundiéndose a marchas forzadas.
+
+La Antártida ha mostrado en febrero una evolución especialmente preocupante, pero el Ártico ha continuado también acelerando esta tendencia.
+
+La extensión del hielo marino en la Antár ...
+	    
+
+Los cambios en la plataforma de hielo Brunt responden a un proceso natural.
+
+Según el BAS, “no hay conexión con los eventos de desprendimiento rápido observados en la plataforma de hielo Larsen C, que tenía una gran cantidad de agua de deshielo  ...
+	 
+
+El iceberg se formó después de que las grietas que se han desarrollado en los últimos años en esta masa de hielo se extendieran por toda la plataforma, lo que provocó que este gigantesco fragmento se liberara al mar.
+
+Esto ocurrió el domingo 22 de  ...
+
+
+Cluster 18 (27 documentos): "incendios" "forestal" "bosques" "forestales" "incendios forestales" "rural" "informe" "bosque" "congreso" "crecido" 
+	 
+
+“El cambio climático no da tregua y, por tanto, nos obliga a no relajarnos ni un momento.
+
+Convocaremos una nueva promoción de 250 plazas de Bomberos, además de una convocatoria de 100 plazas de Agentes Rurales que ya está en marcha, porque hay que ...
+	 
+
+La campaña de verano, que comenzó con las más adversas condiciones, se ha saldado con 260 incendios y un total de 6.136 hectáreas quemadas, por debajo de la media de los últimos años.
+
+El peligro alto de incendio dominó especialmente entre mediados ...
+	 
+
+El Congreso Forestal Español (CFE) es el evento más importante que organiza la Sociedad Española de Ciencias Forestales (SECF), se celebra cada cuatro años y es el principal foro de encuentro para los profesionales forestales españoles.
+
+El último  ...
+	 
+
+En este contexto, ¿reducir el gasto energético no es una exigencia personal?
+
+No me parece estresante hacerse este tipo de preguntas.
+
+Al contrario: tomar conciencia de la dimensión colectiva de nuestros actos individuales es imprescindible en una  ...
+	 
+
+También indica que el carbono acumulado en los bosques españoles ha crecido entre 2015 y 2020 casi un 17%, y que el 61% de su superficie está bajo alguna figura de protección.
+
+Alrededor del 20% de la superficie forestal cuenta con planes de ordena ...
+	 
+
+“Lo que sí es nuevo es que estos fenómenos cada vez son más frecuentes y permanecen durante más tiempo en el territorio, también fuera de verano” añade el técnico de Pau Costa, una entidad sin ánimo de lucro que trabaja para la prevención y gestión ...
+	 
+
+El éxodo rural ha llevado a que haya mucho territorio con una densidad de población inferior a la del Neolítico, según el ingeniero y presidente de la Plataforma Forestal Valenciana, Rafael Delgado, que ha apuntado que sólo en el campo valenciano s ...
+	 
+
+“Los factores que determinan la velocidad de rotación son múltiples, variables y de difícil determinación; son de carácter geofísico y/o astronómico y fundamentalmente están relacionados con la redistribución geométrica de la propia masa de la Tier ...
+
+
+Cluster 19 (9 documentos): "tiburones" "especies" "oceanogràfic" "valència" "visión" "conservación" "pesca" "oceanogràfic valència" "anfibios" "amenazados planeta anfibios" 
+	 
+
+Oceanogràfic-València-edificios LVELa investigadora Britt Finucci y su colega Andrew Chin contarán su visión sobre el efecto de la pesca en estas especies marinas, tanto en profundidad como en caladeros costeros, en Nueva Zelanda y Australia respec ...
+	 
+
+Es más, añadiendo HMBPP a muestras de sangre, aumenta significativamente la atracción que despierta en otras especies de mosquitos, como Anopheles coluzzii, Anopheles arabiensis, Aedes aegypti y especies del complejo Culex pipiens/Culex torrentium. ...
+	 
+
+Los tiburones, rayas y quimeras son los vertebrados más amenazados del planeta, después de los anfibios: un tercio de las más de mil quinientas especies que componen este grupo puede extinguirse en los próximos años, según las últimas estimaciones  ...
+	 
+
+“Todo ello será objeto de debate entre unos 400 participantes que abordarán la conservación no solo desde la ciencia, sino también, desde la presión política y la comunicación”, puntualiza.
+
+Los investigadores son conscientes de que todas las propu ...
+	 
+
+Lee también El Oceanogràfic de València supera ya las cifras de visitantes anteriores a la pandemia Enrique BollandEsta es la cuarta edición de un congreso que se celebra cada cuatro años por todo el mundo.
+
+Las pasadas ediciones tuvieron lugar en  ...
+	 Los expertos mundiales en tiburones se reúnen en València para analizar cómo frenar su extinción.
+
+El Oceanogràfic de Valencia acoge el Congreso Internacional de la especialidad.
+
+Es la primera vez que los especialistas se reúnen en Europa Se trata d ...
+	 
+
+El Oceanogràfic de València, ubicado en la Ciutat de les Arts i les Ciències, un agente destacado en el desarrollo de conocimiento sobre estas especies, coorganiza y acoge el evento, que se celebra entre los días 19 y 22 de octubreLa magnitud de es ...
+	 
+
+¿Es mejor la pesca artesanal que la industrial?
+
+Depende.
+
+La de proximidad tiene sus ventajas ecológicas: generan más empleo y se preocupan mucho más por la sobrepesca, porque no pueden ir a faenar a otro lado.
+
+Pero su huella de carbono es el dob ...
+
+
+Cluster 20 (8 documentos): "jordà" "fageda jordà" "fageda" "cerdanya" "ampliar" "manel" "cerdanya alicia" "jordà manel" "fageda jordà manel" "alicia" 
+	 
+
+Ampliar Árbol desnudo en la Cerdanya.
+
+Alicia BombiEste invierno, hay escasez de nevadas.
+
+Pero, a pesar de las consecuencias del cambio climático, el paisaje invernal de la Cerdanya continúa apasionando a quien conoce esta tierra o a quien la desc ...
+	 
+
+Lo interesante del asunto es que se puede corregir.
+
+Algunos de los ratones infectados con dengue fueron tratados con isotretinoína, lo que condujo a una emisión menor de acetofenona y, por tanto, a la reducción del atractivo para los mosquitos.
+
+M ...
+	 
+
+Manel SerraEste bosque de hayas que pertenece al Parque Natural de la Zona Volcánica de La Garrotxa, es un lugar increíble para ir a pasear.
+
+Se extiende por las localidades de Olot, Santa Pau y Les Preses.
+
+Ampliar Detalle de las hojas otoñales en ...
+	 
+
+Cuando se decide a compensar los estragos de la inflación, no encuentra la clave de cómo favorecer a los vulnerables.
+
+Y así,el regalo de los veinte céntimos de los carburantes beneficia igual al propietario del Porsche Panamera que al dueño del ut ...
+	 El mejor momento para ir a la Fageda d'en Jordà.
+
+El otoño tardío permite disfrutar de este bello hayedo de la Garrotxa, con más tranquilidad entre semana. ...
+	 
+
+Manel SerraLa Fageda d'en Jordà muestra un paisaje único, asentado a 550 metros de altitud sobre una colada enfriada de lava procedente del volcán del Croscat.
+
+El hayedo está rodeado por 21 de los volcanes que hay en la comarca de la Garrotxa.
+
+Am ...
+	 
+
+* El autor forma parte de la comunidad de lectores de La VanguardiaLa Fageda d'en Jordà, seguramente, no está tan guapa como tocaría en esta época del año, pero en este reportaje para Las Fotos de los Lectores de La Vanguardia podemos ver su imagen ...
+	 
+
+Ampliar Las aves y la fauna en general es muy rica en la Cerdanya.
+
+Alicia BombiSe pueden recorrer varias rutas importantes de senderismo, que pasan por la Cerdanya y, también, por la zona francesa, como el Camino ceretano de Santiago, el Camino de ...
+
+
+Cluster 21 (20 documentos): "educación" "superior" "educación superior" "estudiantes" "sociedad" "desarrollo" "acceso" "talento" "innovación" "conocimiento" 
+	 Cómo integrar la sostenibilidad y los ODS en el día a día: el compromiso (y acción) de Telefónica.
+
+La operadora global de telecomunicaciones centra sus&nbsp;esfuerzos en los Objetivos de Desarrollo Sostenible deNaciones Unidas, apostando por la redu ...
+	 
+
+Para facilitar la formación en competencias digitales y la empleabilidad, Telefónica y su Fundación han desarrollado diferentes programas.
+
+En 2021, anunciaron la creación de un nuevo Hub mundial de Innovación y Talento en Distrito Telefónica, con  ...
+	 Nuevos proyectos en la Misión Biológica.
+
+El Consejo Superior de Investigaciones Científicas (CSIC) inicia en Galicia diez nuevas investigaciones financiadas por la Agencia Estatal de Investigación (AEI) a través de la “Convocatoria 2021 de proyectos ...
+	 
+
+“La idea de un fondo único es, en el peor de los casos, inapropiada; y, en el mejor de los casos, en gran medida insuficiente”, declaró el jefe de Estado durante una conferencia de prensa.
+
+“Tan pronto como tenemos un problema, creamos fondos.
+
+(.. ...
+	 
+
+La Tercera Conferencia Mundial sobre Educación Superior, que se celebrará en Barcelona del 18 al 20 de mayo, sentará las bases para trazar un nuevo rumbo para la próxima década y más allá, con la participación no solo de las universidades, sino de  ...
+	 
+
+En la ciudad de Gijón, por ejemplo, de los 8.264 puestos de trabajo directos generados por la economía azul (que, a su vez, representa el 14,2 % del empleo en la ciudad), un 72,8 % corresponde al turismo costero; un 12,4 % a las actividades portuar ...
+	 
+
+Según los datos de la ONU, el 80% de este incremento demográfico se da en los países en desarrollo.
+
+La causa principal es que es donde las mujeres carecen en mayor medida de servicios de planificación familiar y, en la práctica, no tienen poder de ...
+	 El calentamiento actual de Siberia es el mayor en 7.000 años.
+
+El norte de Siberia Occidental está registrando los veranos más cálidos de los últimos 7.000 años.
+
+Mientras que durante varios milenios la temperatura de la región mantuvo un enfriamient ...
+
+
+Cluster 22 (30 documentos): "millones" "2021" "año" "euros" "personas" "oms" "19" "covid 19" "tuberculosis" "covid" 
+	 
+
+Cuando un tema da mucho que hablar, lee todo lo que haya que decir.
+
+Suscríbete aquíEn este contexto, la seguridad laboral se ha convertido claramente en uno de los objetivos más importantes de la nueva etapa.
+
+El informe final del Gobierno de Li K ...
+	 
+
+Ahora, “con un fuerte crecimiento del PIB nominal en 2021-22, la deuda mundial ha registrado la disminución más pronunciada en 70 años y se ha situado en torno al 92% del PIB a finales de 2022, todavía unos 8 puntos porcentuales por encima del nive ...
+	 
+
+Así, la proporción de personas diagnosticadas que se someten inicialmente a una prueba de diagnóstico rápido aumentó del 33% al 78% en el último año, y 109 países utilizan ahora el tratamiento oral, frente a los 92 del año pasado.
+
+Para la resisten ...
+	 
+
+El informe detalla que 235 millones de personas necesitaron ayuda y protección humanitaria en 2021; es decir, 1 de cada 33 personas que habitan el planeta.
+
+Mientras las necesidades aumentan, la financiación apenas lo hace, denuncia el documento.
+
+ ...
+	 
+
+Esto supondría un viaje muy duro y peligroso”, dijo su directora gerente, Kristalina Georgieva, en octubre.
+
+Ahora acentúa ese mensaje: “Es fundamental que las políticas fiscal y monetaria se mantengan estrechamente alineadas para lograr estabilida ...
+	 
+
+A nivel mundial, la reducción del número total de muertes entre 2015 y 2021 fue inferior al 6%, cuando ya se tenía que haber llegado a un 35% para poder cumplir con los Objetivos de Desarrollo Sostenible.
+
+Mientras, la reducción acumulada de la tas ...
+	 
+
+La mejor solución a largo plazo para reducir drásticamente las facturas es llevar a cabo una renovación amplia, lo que supondría unos ahorros de más del 60%.
+
+Las últimas estimaciones, basadas en los precios de agosto de 2022, sugieren que podríamo ...
+	 
+
+El organismo prevé un déficit del 4,5% del producto interior bruto (PIB) este año, en línea con lo que calculaba hasta ahora, pero rebaja la previsión de 2024 al 3,5%, desde el 4,2% que pronosticaba en octubre.
+
+La buena marcha de la recaudación, q ...
+
+
+Cluster 23 (19 documentos): "agua" "climático" "ecológica" "mejores" "dimensión" "reportaje" "atrás" "campofrío" "iwa" "reconocimiento" 
+	 
+
+Por suerte, la izquierda tolera mejor que la derecha que le digan la verdad: que para conseguir los objetivos de cambio climático tendremos que cambiar nuestra forma de consumir.
+
+Lo que la izquierda no tolera tan bien es que le digan que para cons ...
+	 
+
+De la colaboración público-privada en la ciudad han surgido diversos proyectos innovadores “como la elaboración de un prototipo de vehículo marino no tripulado destinado a la limpieza de los puertos deportivos; un proyecto para la cría de bivalvos  ...
+	 Agua caliente, por Antoni Puigverd.
+
+Días atrás, el compañero Antonio Cerrillo, uno de los mejores periodistas de temática ecológica, publicó un reportaje sobre la dimensión psicológica del amenazante y turbulento presente climático: la ecoansiedad. ...
+	 
+
+Muchas personas viven la aceleración del cambio climático con una mezcla de angustia, desconcierto y sentimiento de culpa.
+
+Por miedo a contribuir al calentamiento del planeta, no se atreven a utilizar el aire acondicionado, por ejemplo.
+
+Hacen tod ...
+	 El paisaje invernal de la Cerdanya se reinventa.
+
+El invierno más caluroso ha conllevado menos nevadas, aunque este entorno natural sigue seduciendo.
+
+* La autora forma parte de la comunidad de lectores de La VanguardiaEl paisaje de la Cerdanya se re ...
+	 
+
+Según los ecologistas, además, de cada litro de agua de mar desalada, aproximadamente la mitad únicamente resulta potable y dulce, con posibilidades de utilizarse.   
+
+Por el contrario, el medio litro restante es una salmuera hiperconcentrada en sa ...
+	 Delta Tecnic crece a dos dígitos con su apuesta por la calidad y la cercanía al cliente.
+
+La historia de Delta Tecnic está basada en la toma de decisiones muy meditadas con una sola máxima: “queremos ser los mejores en lo que hacemos, no los más gran ...
+	 
+
+Sí, lo sabemos: nuestros dirigentes son interesados, partidistas, ambiguos y, a menudo, incompetentes.
+
+Sí, lo sabemos: puesto que pueden pagarlo, no pocos amigos, vecinos y conocidos derrochan agua y energía a espuertas.
+
+De acuerdo.
+
+¿Y qué?
+
+Los ...
+
+
+Cluster 24 (9 documentos): "hemisferio" "tormentas" "simetría" "solar" "hemisferio sur" "albedo" "sur" "brillo" "hemisferio norte" "aguas" 
+	 
+
+Un estudio realizado por investigadores de la Universidad de Berkeley (California) cierra el debate y afirma que es muy probable que esa primera expedición utilice energía solar en vez de nuclear.
+
+El concepto no es nuevo; de hecho, la mayor parte  ...
+	 Los embalses que dan de beber a Asturias, llenos cara al verano: están al 95%.
+
+La ola de calor de estos días se transformó ayer por la tarde en fuertes tormentas. ...
+	 
+
+Estos hallazgos han sido publicados esta semana en Nature Communications.
+
+Gracias a las múltiples expediciones de campo destinadas a recolectar madera subfósil realizadas durante los últimos 40 años, los dendrocronólogos del Instituto de Ecología  ...
+	 
+
+Factores ambientales y posibles cambios Pero el problema no termina aquí, porque la Tierra ha estado experimentando modificaciones vertiginosas en los últimos años, debido al cambio climático: esto podría afectar la simetría del albedo entre los he ...
+	 Revelan el misterio de la simetría del brillo de la Tierra.
+
+Durante años, la simetría del brillo entre los hemisferios de la Tierra al observar el planeta desde el espacio ha sido un misterio para los científicos, ya que la extensión desproporcionad ...
+	 
+
+Todo indica que la mayor intensidad de las tormentas sobre el hemisferio sur compensa la menor luz solar reflejada por las aguas oscuras de los océanos.
+
+Las nubes funcionan como verdaderos &quot;reflectores&quot;, amplificando el brillo del hemisf ...
+	 
+
+En consecuencia, el hemisferio sur debería reflejar menos luz solar.
+
+Buscando explicar esta simetría, el equipo de investigadores integró datos de varios informes, incluidos los del satélite Terra de la NASA y el conjunto de datos meteorológicos g ...
+	 
+
+En total, los tres embalses de abastecimiento de la zona centro se encuentran al 94,9%.   
+
+El plan de inversiones del Consorcio de Aguas de Asturias (Cadasa) prevé el desembolso de 130 millones para la mejora del abastecimiento en la región.
+
+De e ...
+
